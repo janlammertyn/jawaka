@@ -1,0 +1,10 @@
+Package: jawaka
+Title: Personal functions to ease life in the R-universe
+Version: 0.1
+Authors@R: "Jan Lammertyn <Jan.Lammertyn@gmail.com> [aut, cre]"
+Description: The package provides handy functions written and copied over the
+    years.
+Depends:
+    R (>= 3.1.0)
+License: What license is it under?
+LazyData: true
