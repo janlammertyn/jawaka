@@ -1,1 +1,1 @@
-A potpouri package with personal functions
+A potpouri package with personal R functions

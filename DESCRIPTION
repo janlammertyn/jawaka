@@ -1,5 +1,5 @@
 Package: jawaka
-Title: Personal functions to ease life in the R-universe
+Title: Personal R functions to ease life in the R-universe
 Version: 0.1
 Authors@R: "Jan Lammertyn <Jan.Lammertyn@gmail.com> [aut, cre]"
 Description: The package provides handy functions written and copied over the
